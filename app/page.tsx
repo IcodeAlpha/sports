@@ -3,7 +3,7 @@ import Home from './components/Home'
 
 const HomePage = () => {
   return (
-    <div className='text-9xl text-red-800'>
+    <div className='bg-[#111111] overflow-hidden'>
       <Home />
     </div>
   )
