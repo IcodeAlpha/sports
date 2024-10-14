@@ -7,9 +7,9 @@ import Modal from '../Helper/Modal'
 
 const Hero = () => {
 
-    const [showModal,setShowModal]=useState(false)
-    const showModalHandler=()=>setShowModal(true)
-    const closeModalHandler=()=>setShowModal(false)
+    const [showModal,setShowModal]=useState(false);
+    const showModalHandler=()=>setShowModal(true);
+    const closeModalHandler=()=>setShowModal(false);
 
   return (
     <div className='relative h-[80vh] bg-[url("/banner1.png")] bg-cover bg-center'>
