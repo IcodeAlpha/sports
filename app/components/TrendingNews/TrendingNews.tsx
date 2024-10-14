@@ -14,7 +14,7 @@ const TrendingNews = () => {
                 image="/n1.png" 
                 date='March 21, 2024' 
                 title='Is Messi ready for Argentina?' 
-                height='h-[100px]'
+                height='h-[300px]'
                 />
             </div>
             {/* Card 2 */}
@@ -23,7 +23,7 @@ const TrendingNews = () => {
                 image="/n2.png" 
                 date='March 22, 2024' 
                 title='Is Messi ready for Argentina?' 
-                height='h-[100px]'
+                height='h-[300px]'
                 />
             </div>
             {/* Card 3 */}
@@ -32,7 +32,7 @@ const TrendingNews = () => {
                 image="/n3.png" 
                 date='March 23, 2024' 
                 title='Is Messi ready for Argentina?' 
-                height='h-[100px]'
+                height='h-[300px]'
                 />
             </div>
             {/* Card 4 */}
@@ -41,7 +41,7 @@ const TrendingNews = () => {
                 image="/n4.png" 
                 date='March 24, 2024' 
                 title='Is Messi ready for Argentina?' 
-                height='h-[100px]'
+                height='h-[300px]'
                 />
             </div>
         </div>
