@@ -11,7 +11,7 @@ const TrendingNews = () => {
             {/* Card 1 */}
             <div>
                 <NewsCard 
-                image="/n1.png" 
+                image="/n1.jpg" 
                 date='March 21, 2024' 
                 title='Is Messi ready for Argentina?' 
                 height='h-[300px]'
