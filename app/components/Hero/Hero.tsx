@@ -24,11 +24,11 @@ const Hero = () => {
                 <p data-aos="fade-left" className='sm:px-8 px-4 py-1 mb-[1rem] text-[12px] sm:text-[16px] bg-red-600 text-white w-fit uppercase'>
                     Football
                 </p>
-                <h1 data-aos="fade-right" data-aos-delay="200" className='text-[25px] sm:text-[32px] md:text-[38px] lg:text-[45px] text-white leading-[2rem] md:leading-[3.5rem] font-medium'>THE WORLD CUP 2026 WHAT ARE THE EXCITING NEWS FOR US</h1>
+                <h1 data-aos="fade-right" data-aos-delay="200" className='text-[25px] sm:text-[32px] md:text-[38px] lg:text-[45px] text-white leading-[2rem] md:leading-[3.5rem] font-medium'>MWEITHIA WINS IT AT THE DEATH FOR JUBILEE 💪</h1>
                 <div className='flex items-center space-x-14'>
                     <div data-aos="fade-left" data-aos-delay="400" className='flex items-center space-x-2 mt-[1rem] sm:mt-[2rem]'>
                         <BiCalendar className='w-[1rem] h-[1rem] text-white'/>
-                        <p className='text-[11px] sm:text-[16px] text-white uppercase'>March 20, 2024</p>
+                        <p className='text-[11px] sm:text-[16px] text-white uppercase'>Oct 27, 2024</p>
                     </div>
                     <div data-aos="fade-right" data-aos-delay="600" className='flex items-center space-x-2 mt-[1rem] sm:mt-[2rem]'>
                         <BiUser className='w-[1rem] h-[1rem] text-white'/>

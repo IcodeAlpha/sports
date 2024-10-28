@@ -11,29 +11,29 @@ const MatchHighlights = () => {
             <div data-aos="fade-left" data-aos-anchor-placement="top-center">
                 <HighlightsCard 
                 image="/h1.png" 
-                title="TEN HAG STAYS TOP, UNITED 5 - ARSENAL 0"
-                date='21 March 2024'
+                title="PREMIER LEAGUE: Man City stay top, Arsenal and Liverpool in hot pursuit "
+                date='27 Oct 2024'
                 />
             </div>
             <div data-aos="fade-left" data-aos-anchor-placement="top-center" data-aos-delay="200">
                 <HighlightsCard 
                 image="/h2.png" 
-                title="GAVI AND YAMAL SHOW IN CATALONIA, Barca 4 - SEVILLA 0"
-                date='22 March 2024'
+                title="LA LIGA: Lewandoski at the double, Mbappe offside as Barca stay top"
+                date='27 Oct 2024'
                 />
             </div>
             <div data-aos="fade-left" data-aos-anchor-placement="top-center" data-aos-delay="400">
                 <HighlightsCard 
                 image="/h3.png" 
-                title="GREENWOOD MASTERCLASS IN MARSEILLE, MARSEILLE 5 - PSG 1"
-                date='23 March 2024'
+                title="SERIE A: Inter and Juve play out to a 8 goal thriller for a point"
+                date='27 Oct 2024'
                 />
             </div>
             <div data-aos="fade-left" data-aos-anchor-placement="top-center" data-aos-delay="600">
                 <HighlightsCard 
                 image="/h4.png" 
-                title="McTOMINAY SCORES AGAIN AS NAPOLI KEEPS WINNING, NAPOLI 3 - JUVENTUS 0"
-                date='24 March 2024'
+                title="KABARE LEAGUE: Jubilee, Riakithiga wins all 3 points on opening day at Mugumo"
+                date='27 Oct 2024'
                 />
             </div>
         </div>

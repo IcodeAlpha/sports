@@ -9,7 +9,7 @@ const Footer = () => {
             {/* 1st part */}
             <div>
                 <h1 className='text-[22px] text-white font-semibold mb-[1.5rem] uppercase'>
-                    About Club
+                    About Leagues
                 </h1>
                 <p className='text-[17px] text-white font-semibold text-opacity-70'>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -56,13 +56,13 @@ const Footer = () => {
                 <h1 className='text-[22px] text-white font-semibold mb-[1.5rem] uppercase'>
                     Get In Touch
                 </h1>
-                <p className='text-[15px] w-fit text-white hover:text-yellow-300 cursor-pointer text-opacity-70 mb-[0.7rem]'>+254796410510</p>
+                <p className='text-[15px] w-fit text-white hover:text-yellow-300 cursor-pointer text-opacity-70 mb-[0.7rem]'>0769009184</p>
                 <p className='text-[15px] w-fit text-white hover:text-yellow-300 cursor-pointer text-opacity-70 mb-[0.7rem]'>alphamunene@yahoo.com</p>
-                <p className='text-[15px] w-fit text-white hover:text-yellow-300 cursor-pointer text-opacity-70 mb-[0.7rem]'>Alpha Valley, Kirinyaga</p>            
+                <p className='text-[15px] w-fit text-white hover:text-yellow-300 cursor-pointer text-opacity-70 mb-[0.7rem]'>AlphaPubs🍺</p>            
             </div>
         </div>
         {/* copyright */}
-        <h1 className='mt-[2rem] text-[14px] w-[80%] mx-auto text-white opacity-50'>COPYRIGHT BY ALPHA LEE - 2024</h1>
+        <h1 className='mt-[2rem] text-[14px] w-[80%] mx-auto text-white opacity-50'>COPYRIGHT BY ALPHAPUBS 🍺 - 2024</h1>
     </div>
   )
 }

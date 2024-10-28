@@ -12,8 +12,8 @@ const TrendingNews = () => {
             <div data-aos="fade-right" data-aos-anchor-placement="top-center">
                 <NewsCard 
                 image="/n1.jpg" 
-                date='March 21, 2024' 
-                title='Is Messi ready for Argentina?' 
+                date='Oct 27, 2024' 
+                title='More difficult fixtures on the way for Jubilee?' 
                 height='h-[300px]'
                 />
             </div>
@@ -21,8 +21,8 @@ const TrendingNews = () => {
             <div data-aos="fade-right" data-aos-anchor-placement="top-center" data-aos-delay="200">
                 <NewsCard 
                 image="/n2.png" 
-                date='March 22, 2024' 
-                title='Ronaldo axed from Portugal Squad' 
+                date='Oct 27, 2024' 
+                title='Mwau misses from the spot' 
                 height='h-[300px]'
                 />
             </div>
@@ -30,8 +30,8 @@ const TrendingNews = () => {
             <div data-aos="fade-right" data-aos-anchor-placement="top-center" data-aos-delay="400">
                 <NewsCard 
                 image="/n3.png" 
-                date='March 23, 2024' 
-                title='England fans wants Rashford in the Squad?' 
+                date='Oct 27, 2024' 
+                title='Oracle held to a 1-1 draw by Kutus at home' 
                 height='h-[300px]'
                 />
             </div>
@@ -39,8 +39,8 @@ const TrendingNews = () => {
             <div data-aos="fade-right" data-aos-anchor-placement="top-center" data-aos-delay="600">
                 <NewsCard 
                 image="/n4.png" 
-                date='March 24, 2024' 
-                title='Alpha Ready to shine for Kenya in its WorldCup debut' 
+                date='Oct 27, 2024' 
+                title='Riakithiga sinks Kiamiciri in injury time' 
                 height='h-[300px]'
                 />
             </div>
