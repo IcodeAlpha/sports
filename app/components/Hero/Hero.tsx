@@ -32,7 +32,7 @@ const Hero = () => {
                     </div>
                     <div data-aos="fade-right" data-aos-delay="600" className='flex items-center space-x-2 mt-[1rem] sm:mt-[2rem]'>
                         <BiUser className='w-[1rem] h-[1rem] text-white'/>
-                        <p className='text-[11px] sm:text-[16px] text-white uppercase'>By Alpha Lee</p>
+                        <p className='text-[11px] sm:text-[16px] text-white uppercase'>By Alpha Pubs</p>
                     </div>
                 </div>
                 <div className='mt-[2.4rem] flex items-center space-x-6'>
