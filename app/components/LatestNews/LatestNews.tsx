@@ -15,13 +15,13 @@ const LatestNews = () => {
             {/* small card */}
             <div className='col-span-2'>
                 <div data-aos="zoom-in" data-aos-anchor-placement="top-center" data-aos-delay="200">
-                    <SmallNewsCard image='/n2.png' date='0ct 27, 2024' title='Baleba Red Card  '/>
+                    <SmallNewsCard image='/n2.png' date='0ct 27, 2024' title='Real Madrid beat Atalanta again '/>
                 </div>
                 <div data-aos="zoom-in" data-aos-anchor-placement="top-center" data-aos-delay="400" className='mt-[1.4rem] mb-[1.4rem]'>
-                    <SmallNewsCard image='/n3.png' date='0ct 26, 2024' title='Barcelona demolish Real Madrid with La Masia graduates at the Bernabou'/>
+                    <SmallNewsCard image='/n3.png' date='0ct 26, 2024' title='Brest keep impressing in Europe'/>
                 </div>
                 <div data-aos="zoom-in" data-aos-anchor-placement="top-center" data-aos-delay="600">
-                    <SmallNewsCard image='/n4.png' date='0ct 27, 2024' title='Ten Hag under more pressure after loss away at WestHam'/>
+                    <SmallNewsCard image='/n4.png' date='0ct 27, 2024' title='PSG win convincingly'/>
                 </div>
             </div>
         </div>
