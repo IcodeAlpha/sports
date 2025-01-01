@@ -27,7 +27,7 @@ const PostCard = ({ date, image, title }: Props) => {
                 <p className='text-white text-[10px] sm:text-[12px] md:text-[14px]'>{date}</p>
             </div>
             <h1 className='text-[14px] sm:text-[16px] md:text-[20px] font-semibold hover:text-red-500 hover:underline cursor-pointer transition-all duration-300 mt-[1rem] text-white'>{title}</h1>
-            <p className='mt-[2rem] hover:text-red-500 hover:underline cursor-pointer transition-all duration-300 text-white text-[12px] sm:text-[14px] md:text-[17px] font-semibold w-fit'>Read More</p>
+            <p className='mt-[2rem] hover:text-red-500 hover:underline cursor-pointer transition-all duration-300 text-white text-[12px] sm:text-[14px] md:text-[17px] font-semibold w-fit'>Read</p>
        </div>
     </div>
   )
