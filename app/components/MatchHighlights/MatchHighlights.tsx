@@ -11,7 +11,7 @@ const MatchHighlights = () => {
             <div data-aos="fade-left" data-aos-anchor-placement="top-center">
                 <HighlightsCard 
                 image="/h1.png" 
-                title="PREMIER LEAGUE: Man City stay top, Arsenal and Liverpool in hot pursuit "
+                title="PREMIER LEAGUE: Liverpool 8 points clear at the table summit"
                 date='27 Oct 2024'
                 />
             </div>
