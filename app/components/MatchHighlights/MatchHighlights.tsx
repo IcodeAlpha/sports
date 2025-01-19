@@ -11,14 +11,14 @@ const MatchHighlights = () => {
             <div data-aos="fade-left" data-aos-anchor-placement="top-center">
                 <HighlightsCard 
                 image="/h1.png" 
-                title="PREMIER LEAGUE: will Liverpool hold on to lead?"
+                title="Amorim's Reds face Brighton at Old Trafford"
                 date='27 Oct 2024'
                 />
             </div>
             <div data-aos="fade-left" data-aos-anchor-placement="top-center" data-aos-delay="200">
                 <HighlightsCard 
                 image="/h2.png" 
-                title="LA LIGA: Lewandoski at the double, Mbappe offside as Barca stay top"
+                title="A Real Madrid win takes them at the summit of La Liga"
                 date='27 Oct 2024'
                 />
             </div>
