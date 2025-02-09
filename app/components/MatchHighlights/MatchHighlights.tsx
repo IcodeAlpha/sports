@@ -11,28 +11,28 @@ const MatchHighlights = () => {
             <div data-aos="fade-left" data-aos-anchor-placement="top-center">
                 <HighlightsCard 
                 image="/h1.png" 
-                title="Amorim's Reds face Brighton at Old Trafford"
+                title="Maguire late header sends United through"
                 date='27 Oct 2024'
                 />
             </div>
             <div data-aos="fade-left" data-aos-anchor-placement="top-center" data-aos-delay="200">
                 <HighlightsCard 
                 image="/h2.png" 
-                title="A Real Madrid win takes them at the summit of La Liga"
+                title="Madrid Derby ends with a point each"
                 date='27 Oct 2024'
                 />
             </div>
             <div data-aos="fade-left" data-aos-anchor-placement="top-center" data-aos-delay="400">
                 <HighlightsCard 
                 image="/h3.png" 
-                title="SERIE A: Inter and Juve play out to a 8 goal thriller for a point"
+                title="Brighton beats Chelsea"
                 date='27 Oct 2024'
                 />
             </div>
             <div data-aos="fade-left" data-aos-anchor-placement="top-center" data-aos-delay="600">
                 <HighlightsCard 
                 image="/h4.png" 
-                title="KABARE LEAGUE: Jubilee, Riakithiga wins all 3 points on opening day at Mugumo"
+                title="Gatugura Prime vs Riakithiga knockout match"
                 date='27 Oct 2024'
                 />
             </div>
