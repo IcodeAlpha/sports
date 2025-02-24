@@ -12,7 +12,7 @@ const Footer = () => {
                     Leagues
                 </h1>
                 <p className='text-[17px] text-white font-semibold text-opacity-70'>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    This is our league.
                 </p>
                 <div className='mt-[1.5rem] flex items-center space-x-3'>
                     <div className='w-[2.4rem] h-[2.4rem] bg-blue-600 rounded-full flex items-center justify-center flex-col'>
