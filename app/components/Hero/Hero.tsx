@@ -28,7 +28,7 @@ const Hero = () => {
                 <div className='flex items-center space-x-14'>
                     <div data-aos="fade-left" data-aos-delay="400" className='flex items-center space-x-2 mt-[1rem] sm:mt-[2rem]'>
                         <BiCalendar className='w-[1rem] h-[1rem] text-white'/>
-                        <p className='text-[11px] sm:text-[16px] text-white uppercase'>Jan 1, 2025</p>
+                        <p className='text-[11px] sm:text-[16px] text-white uppercase'>Feb 24, 2025</p>
                     </div>
                     <div data-aos="fade-right" data-aos-delay="600" className='flex items-center space-x-2 mt-[1rem] sm:mt-[2rem]'>
                         <BiUser className='w-[1rem] h-[1rem] text-white'/>
