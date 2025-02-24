@@ -30,10 +30,10 @@ const MobileNav = ({closeNav,nav}:Props) => {
                     <Link href='#'>News</Link>
                 </li>
                 <li className='text-[27px] text-white font-medium uppercase hover:text-yellow-400 transition-all duration-200'>
-                    <Link href='#'>Post</Link>
+                    <Link href='#'>Posts</Link>
                 </li>
                 <li className='text-[27px] text-white font-medium uppercase hover:text-yellow-400 transition-all duration-200'>
-                    <Link href='#'>Contact</Link>
+                    <Link href='#'>Contacts</Link>
                 </li>
             </ul>
         </div>
