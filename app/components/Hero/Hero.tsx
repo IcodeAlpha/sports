@@ -24,7 +24,7 @@ const Hero = () => {
                 <p data-aos="fade-left" className='sm:px-8 px-4 py-1 mb-[1rem] text-[12px] sm:text-[16px] bg-red-600 text-white w-fit uppercase'>
                     Football
                 </p>
-                <h1 data-aos="fade-right" data-aos-delay="200" className='text-[25px] sm:text-[32px] md:text-[38px] lg:text-[45px] text-white leading-[2rem] md:leading-[3.5rem] font-medium'>ALPHA PUBS VOTED THE BEST SPORTS WEBSITE 💪</h1>
+                <h1 data-aos="fade-right" data-aos-delay="200" className='text-[25px] sm:text-[32px] md:text-[38px] lg:text-[45px] text-white leading-[2rem] md:leading-[3.5rem] font-medium'>BIG TEAMS WIN BIG 💪</h1>
                 <div className='flex items-center space-x-14'>
                     <div data-aos="fade-left" data-aos-delay="400" className='flex items-center space-x-2 mt-[1rem] sm:mt-[2rem]'>
                         <BiCalendar className='w-[1rem] h-[1rem] text-white'/>
